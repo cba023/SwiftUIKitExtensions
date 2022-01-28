@@ -1,6 +1,5 @@
 # SwiftUIKitExtensions
 
-[![CI Status](https://img.shields.io/travis/Chen Bo/SwiftUIKitExtensions.svg?style=flat)](https://travis-ci.org/Chen Bo/SwiftUIKitExtensions)
 [![Version](https://img.shields.io/cocoapods/v/SwiftUIKitExtensions.svg?style=flat)](https://cocoapods.org/pods/SwiftUIKitExtensions)
 [![License](https://img.shields.io/cocoapods/l/SwiftUIKitExtensions.svg?style=flat)](https://cocoapods.org/pods/SwiftUIKitExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftUIKitExtensions.svg?style=flat)](https://cocoapods.org/pods/SwiftUIKitExtensions)
@@ -22,7 +21,7 @@ pod 'SwiftUIKitExtensions'
 
 ## Author
 
-Chen Bo, chenb3@g-bits.com
+Chen Bo, cba023@hotmail.com
 
 ## License
 

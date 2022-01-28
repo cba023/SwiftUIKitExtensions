@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUIKitExtensions (0.1.0)
+
+DEPENDENCIES:
+  - SwiftUIKitExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUIKitExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUIKitExtensions: 471d2cfb05882d907385208b4d49e75c7576a641
+
+PODFILE CHECKSUM: 7ad5e12d567117a704b12281a2f2fbb57a18f5c1
+
+COCOAPODS: 1.11.2

@@ -7,12 +7,13 @@
 //
 
 import UIKit
+import SwiftUIKitExtensions
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        view._backgroundColor(.lightGray)
     }
 
     override func didReceiveMemoryWarning() {
