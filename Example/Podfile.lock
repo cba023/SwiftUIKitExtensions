@@ -1,16 +1,16 @@
 PODS:
-  - SwiftUIKitExtensions (0.1.0)
+  - SwiftUIKitExtensions (0.1.1)
 
 DEPENDENCIES:
-  - SwiftUIKitExtensions
+  - SwiftUIKitExtensions (from `../`)
 
-SPEC REPOS:
-  trunk:
-    - SwiftUIKitExtensions
+EXTERNAL SOURCES:
+  SwiftUIKitExtensions:
+    :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftUIKitExtensions: 8c6ef1e6f18570f76e441c354a5fd5ceb552aa4f
+  SwiftUIKitExtensions: 8c59feeb2d5b5654337627bddf0724efcf5dd82e
 
-PODFILE CHECKSUM: fc917f9255401af4572b8a411aa509aa92c0ff0d
+PODFILE CHECKSUM: 7ad5e12d567117a704b12281a2f2fbb57a18f5c1
 
 COCOAPODS: 1.11.2

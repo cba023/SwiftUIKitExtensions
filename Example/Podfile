@@ -3,9 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'SwiftUIKitExtensions_Example' do
-#  pod 'SwiftUIKitExtensions', :path => '../'
-  pod 'SwiftUIKitExtensions'
-
+  pod 'SwiftUIKitExtensions', :path => '../'
 
   target 'SwiftUIKitExtensions_Tests' do
     inherit! :search_paths
