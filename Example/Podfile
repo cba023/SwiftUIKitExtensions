@@ -4,6 +4,8 @@ platform :ios, '9.0'
 
 target 'SwiftUIKitExtensions_Example' do
   pod 'SwiftUIKitExtensions', :path => '../'
+  
+  pod 'Reveal-SDK', '~> 24.0'
 
   target 'SwiftUIKitExtensions_Tests' do
     inherit! :search_paths

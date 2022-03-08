@@ -1,16 +1,23 @@
 PODS:
+  - Reveal-SDK (24)
   - SwiftUIKitExtensions (0.1.1)
 
 DEPENDENCIES:
+  - Reveal-SDK (~> 24.0)
   - SwiftUIKitExtensions (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Reveal-SDK
 
 EXTERNAL SOURCES:
   SwiftUIKitExtensions:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftUIKitExtensions: 8c59feeb2d5b5654337627bddf0724efcf5dd82e
+  Reveal-SDK: 5d7e56b8f018c0a88b3a2c10bf68d598bbd3b071
+  SwiftUIKitExtensions: 09abe787f06796bf6497de690e84cfc8c85e3eb9
 
-PODFILE CHECKSUM: 7ad5e12d567117a704b12281a2f2fbb57a18f5c1
+PODFILE CHECKSUM: 07b00f8a6a027822d67087ee58e0ffd75ef8aa71
 
 COCOAPODS: 1.11.2
